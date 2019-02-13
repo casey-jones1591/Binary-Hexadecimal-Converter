@@ -1,6 +1,6 @@
 # C-Shell-Practice
 
-The following files are practice in getting to know the C language.
+
 
 At a high level:
 
