@@ -2,12 +2,12 @@
 
 The following files are practice in getting to know the C language.
 
-At a high level
+At a high level:
 
-CmdFileOperations - makes system calls on fork()
+  CmdFileOperations - Read through a file and make system calls practicing new processes
 
-HexToBin - takes in hexadecimal number and converts to binary
+  HexToBin - Read through a file containing hexadecimal numbers and converts to binary
 
-BinToHex - takes in binary number and converts to hexadecimal
+  BinToHex - Read through a file containing binary numbers and converts to hexadecimal
 
-ParseCmds - parses and tokenizes the command line string
+  ParseCmds - Take in command line arguments and parse them using strtok()
